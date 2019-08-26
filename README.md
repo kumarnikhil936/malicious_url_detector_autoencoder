@@ -14,4 +14,4 @@ The implementation is coded in Python using Keras for building and training the 
 The dataet couldn't have been used in its original state, so some feature engineering has been done to make it more rich with new features engineered. 
 
 
-# References: https://bit.ly/2ZfvBFr  https://bit.ly/2U3txuo
+References: https://bit.ly/2ZfvBFr  https://bit.ly/2U3txuo
